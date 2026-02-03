@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Creation de site web">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff7f0" />
+      <stop offset="100%" stop-color="#ffe8d9" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#1f8a7a" />
+      <stop offset="100%" stop-color="#5dd3c5" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)" />
+  <rect x="90" y="110" width="620" height="380" rx="28" fill="#ffffff" stroke="#f1ded3" stroke-width="6" />
+  <rect x="120" y="150" width="560" height="260" rx="18" fill="url(#screen)" />
+  <rect x="140" y="180" width="220" height="22" rx="11" fill="#ffffff" opacity="0.9" />
+  <rect x="140" y="220" width="300" height="18" rx="9" fill="#ffffff" opacity="0.7" />
+  <rect x="140" y="260" width="260" height="18" rx="9" fill="#ffffff" opacity="0.7" />
+  <rect x="140" y="300" width="180" height="18" rx="9" fill="#ffffff" opacity="0.7" />
+  <rect x="140" y="340" width="140" height="18" rx="9" fill="#ffffff" opacity="0.7" />
+  <circle cx="610" cy="208" r="42" fill="#ff7a59" opacity="0.9" />
+  <rect x="270" y="450" width="260" height="28" rx="14" fill="#ff7a59" />
+  <circle cx="190" cy="130" r="8" fill="#ff7a59" />
+  <circle cx="215" cy="130" r="8" fill="#ffb300" />
+  <circle cx="240" cy="130" r="8" fill="#1f8a7a" />
+</svg>
